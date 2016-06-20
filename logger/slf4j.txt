@@ -1,0 +1,19 @@
+pom配置：
+
+<dependency>
+  <groupId>org.slf4j</groupId>
+  <artifactId>slf4j-api</artifactId>
+  <version>1.7.5</version>
+</dependency>
+
+<dependency>
+  <groupId>org.slf4j</groupId>
+  <artifactId>slf4j-log4j12</artifactId>
+  <version>1.7.5</version>
+</dependency>
+
+
+使用方法：
+
+	Logger logger = LoggerFactory.getLogger(RunMain.class);
+	logger.info("Hello {}","World");
