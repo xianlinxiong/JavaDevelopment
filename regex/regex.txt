@@ -1,0 +1,6 @@
+String test ="";
+String regex = "";
+Pattern pat = Pattern.compile(regex);
+Matcher matcher = pat.matcher(test);
+while(matcher.find())
+    ls.add(matcher.group());
