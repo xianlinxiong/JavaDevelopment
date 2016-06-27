@@ -1,0 +1,91 @@
+Navicat Main Window：
+CTRL+G	Settings Location Folder
+CTRL+# (# represents 0 to 9)	Open Object Window from Favorites List
+F6	Console
+CTRL+H	History Log
+CTRL+Q	New Query
+F12	Show Only Active Objects
+
+Common：
+CTRL+N	New Object
+SHIFT+CTRL+# (# represents 0 to 9)	Add to Favorites
+F8	Navicat Main Window
+CTRL+TAB or SHIFT+CTRL+TAB	Next Window
+F1	Help
+CTRL+F1	Online Documentation
+
+Table Designer：
+CTRL+O	Open Table
+CTRL+F	Find Field
+F3	Find Next Field
+SHIFT+F3	Find Previous Field
+
+Table Viewer/View Viewer：
+CTRL+D	Design Table/Design View
+CTRL+Q	Query Table/Query View
+CTRL+F	Find Text
+F3	Find Next Text
+CTRL+G	Go to Row
+CTRL+LEFT ARROW	First Data Column of Current Record
+CTRL+RIGHT ARROW	Last Data Column of Current Record
+CTRL+HOME	First Data Row of Current Column
+CTRL+END	Last Data Row of Current Column
+CTRL+PAGE UP or CTRL+UP ARROW	First Data Row of Current Window
+CTRL+PAGE DOWN or CTRL+DOWN ARROW	Last Data Row of Current Window
+CTRL+R	Apply Filter in Filter Wizard
+SHIFT+ARROW	Select Cells
+CTRL+ENTER	Edit Data with Opening Editor
+INSERT or CTRL+N	New Record
+CTRL+DELETE	Delete Record
+CTRL+S	Apply Record Changes
+ESC	Cancel Record Changes
+CTRL+T	Stop Loading Data
+
+View/Query：
+CTRL+O	Load View/Load Query
+CTRL+/	Comment Line
+SHIFT+CTRL+/	Uncomment Line
+CTRL+E	View Definition/Query Editor
+CTRL+R	Run
+SHIFT+CTRL+R	Run Selected
+F7	Run a Statement from Here
+CTRL+T	Stop
+
+SQL Editor：
+CTRL+F	Find Text
+F3	Find Next Text
+CTRL+= or CTRL+Mousewheel Up	Zoom In
+CTRL+- or CTRL+Mousewheel Down	Zoom Out
+CTRL+0	Reset Zoom
+
+Debugger：
+F9	Run
+F8	Step Over
+F7	Step In
+SHIFT+F7	Step Out
+
+Report：
+CTRL+O	Open Report in Report Design
+CTRL+P	Print in Report Design
+CTRL+G	Groups in Report Design
+PAGE DOWN	Next Page
+PAGE UP	Previous Page
+END	Last Page
+HOME	First Page
+
+Model：
+CTRL+D	New Diagram in Model
+CTRL+P	Print
+ESC	Select
+H	Move Diagram
+T	New Table
+V	New View
+L	New Layer
+A	New Label
+N	New Note
+I	New Image
+R	New Foreign Key
+CTRL+B	Bold Selected Table, View, Foreign Key or Shape
+CTRL+= or CTRL+Mousewheel Up	Zoom In
+CTRL+- or CTRL+Mousewheel Down	Zoom Out
+CTRL+0	Reset Zoom
